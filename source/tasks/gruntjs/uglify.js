@@ -4,6 +4,11 @@ module.exports = function(grunt, options){
   var projectDir = options.projectDir;
 
   return {
+    options: {
+      compress: {
+        drop_console: false
+      }
+    },
     example: {
       files: {
         '<%= projectDir %>/script.min.js': 
