@@ -31,18 +31,21 @@ var onclickCard = function(){
 	}
 }
 
-var initBoard = function(){
-	cardsFlipped = 0;
-	output = '';
-    cards = cardsShuffle(cards);
-
+var createCards = function(cards){
 	for(var i = 0; i < cards.length; i++){
 		output += '<div class="card" id="card-'+i+'" data-value="'+cards[i]+'"></div>';
 	}
 
 	$board.innerHTML = output;
-
 	onclickCard();
+}
+
+var initBoard = function(){
+	cardsFlipped = 0;
+	output = '';
+	cards = cardsShuffle(cards);
+
+	createCards(cards);
 }
 
 var pairMade = function(){
