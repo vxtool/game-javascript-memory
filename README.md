@@ -4,6 +4,12 @@
 [![issues](https://img.shields.io/github/issues/game-solutions/game-javascript-memory.svg)](https://github.com/game-solutions/game-javascript-memory/issues)
 [![devDependency Status](https://david-dm.org/game-solutions/game-javascript-memory/dev-status.svg)](https://david-dm.org/game-solutions/game-javascript-memory#info=devDependencies)
 
+## Instalação
+
+```
+npm install
+```
+
 ## Log
 
 Veja o [Changelog](CHANGELOG.md) para mais detalhes.
