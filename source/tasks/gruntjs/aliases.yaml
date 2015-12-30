@@ -1,0 +1,4 @@
+default:
+  - 'clean'
+  - 'sass'
+  - 'uglify'
