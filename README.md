@@ -10,6 +10,10 @@
 npm install
 ```
 
+## Contribuindo
+
+Veja o [Contributing](CONTRIBUTING.md) para mais detalhes.
+
 ## Log
 
 Veja o [Changelog](CHANGELOG.md) para mais detalhes.
