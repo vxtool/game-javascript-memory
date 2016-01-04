@@ -84,7 +84,9 @@ var toFlipUp = function(card, value){
 		if(cardsValues.length < 2){
 			cardsValues.push(value);
 			selectedCards.push(card.id);
-		} else if(cardsValues.length == 2){
+		}
+
+		if(cardsValues.length == 2){
 			if(cardsValues[0] == cardsValues[1]){
 				pairMade();
 			} else {
