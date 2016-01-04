@@ -6,7 +6,7 @@ module.exports = function(grunt) {
         configPath: path.join(process.cwd(), 'source/tasks/gruntjs'),
         data: {
         	projectDev : 'source/assets',
-        	projectDir : 'dist',
+        	projectDir : 'public/dist',
             pkg: grunt.file.readJSON('package.json')
         }
     });
