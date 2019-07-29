@@ -1,8 +1,12 @@
 # Game of the memory in JavaScript
 
 [![licence mit](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](http://hemersonvianna.mit-license.org/)
-[![issues](https://img.shields.io/github/issues/descco-tools/game-javascript-memory.svg?style=flat-square)](https://github.com/descco-tools/game-javascript-memory/issues)
-[![devDependency Status](https://david-dm.org/descco-tools/game-javascript-memory/dev-status.svg)](https://david-dm.org/descco-tools/game-javascript-memory#info=devDependencies)
+[![GitHub issues](https://img.shields.io/github/issues/org-victorinox/game-javascript-memory.svg)](https://github.com/org-victorinox/game-javascript-memory/issues)
+![GitHub package.json version](https://img.shields.io/github/package-json/v/org-victorinox/game-javascript-memory.svg)
+![GitHub Release Date](https://img.shields.io/github/release-date/org-victorinox/game-javascript-memory.svg)
+![GitHub top language](https://img.shields.io/github/languages/top/org-victorinox/game-javascript-memory.svg)
+![GitHub repo size](https://img.shields.io/github/repo-size/org-victorinox/game-javascript-memory.svg)
+![GitHub All Releases](https://img.shields.io/github/downloads/org-victorinox/game-javascript-memory/total.svg)
 
 ## Install
 
@@ -20,7 +24,7 @@ npm install
 
 ## Log
 
-Check [Releases](https://github.com/game-solutions/game-javascript-memory/releases) for detailed changelog.
+Check [Releases](https://github.com/org-victorinox/game-javascript-memory/releases) for detailed changelog.
 
 ## License
 
